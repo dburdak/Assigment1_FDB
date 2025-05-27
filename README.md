@@ -1,5 +1,5 @@
 # Assigment1_FDB
-Tables:
+## Tables:
 
   1)Companies - describes companies that we have at our recruting service;
     <img width="596" alt="Знімок екрана 2025-05-27 о 15 50 12" src="https://github.com/user-attachments/assets/a59c7d58-f868-4876-9f0d-1fbac362415f" />
@@ -16,7 +16,7 @@ Tables:
   5)Interviews - describes interviews that were held due tu our service.
     <img width="690" alt="Знімок екрана 2025-05-27 о 15 51 17" src="https://github.com/user-attachments/assets/eba04eb0-b466-475a-bafd-d13fbe6d2f9b" />
 
-QUERIES:
+## Queries:
   1. Select(there 2 variants with CTE and without) to join 5 tables and etc:
      Sense: to show the candidate that get the job by the smallest amount of time.
      Result:
