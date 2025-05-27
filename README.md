@@ -1,5 +1,6 @@
 # Assigment1_FDB
 Tables:
+
   1)Companies - describes companies that we have at our recruting service;
     <img width="596" alt="Знімок екрана 2025-05-27 о 15 50 12" src="https://github.com/user-attachments/assets/a59c7d58-f868-4876-9f0d-1fbac362415f" />
   
